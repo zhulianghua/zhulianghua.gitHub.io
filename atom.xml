@@ -30,18 +30,4 @@
     
   </entry>
   
-  <entry>
-    <title>test_my_site</title>
-    <link href="http://yoursite.com/2019/02/27/test-my-site/"/>
-    <id>http://yoursite.com/2019/02/27/test-my-site/</id>
-    <published>2019-02-27T11:24:42.000Z</published>
-    <updated>2019-02-27T11:24:42.440Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
 </feed>
