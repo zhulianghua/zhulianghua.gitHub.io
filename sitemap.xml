@@ -8,18 +8,4 @@
     
   </url>
   
-  <url>
-    <loc>http://yoursite.com/rss/index.html</loc>
-    
-    <lastmod>2019-03-01T18:12:57.113Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2019-03-01T17:46:51.693Z</lastmod>
-    
-  </url>
-  
 </urlset>
